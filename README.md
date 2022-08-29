@@ -1,4 +1,4 @@
-# GlobalAIHub_Medical-Cost-Personal-Datasets
+# GlobalAISummerCamp_Medical-Cost-Personal-Datasets
 
 Data Set: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
